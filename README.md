@@ -1,4 +1,3 @@
-# wpfMatchGame
 # Animal Emoji Match Game
 
 ### Let’s build a game!
